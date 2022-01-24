@@ -14,7 +14,9 @@ font-family: 'Poppins', sans-serif;
     border-radius: 30px;
    
 }
-
+.carousel-item img{
+    background-blend-mode: overlay;
+}
 
 .pakage-color{
 color: #231D4F;
